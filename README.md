@@ -2,6 +2,8 @@
 
 A new Flutter application created follow Reso coder TDD series
 
+![image info](./diagram.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
